@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-**Web Scraping** and **Data Analysis** of the ***Largest 100 US Companies by Revenue**
+**Web Scraping** and **Data Analysis** of the **Largest 100 US Companies by Revenue**
 **Tools and Technologies**: **Python**, BeautifulSoup, Requests, Pandas, Matplotlib, **PostgreSQL**, Smtplib, SSL.
 
 ## Project Objectives
