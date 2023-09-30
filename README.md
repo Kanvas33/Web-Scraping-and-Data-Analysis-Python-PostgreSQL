@@ -16,7 +16,7 @@ To send automated email notifications with project updates using the smtplib and
 
 ## Project Workflow
 
-**Data Extraction (Web Scraping) **
+**Data Extraction (Web Scraping)**
 Utilized Python libraries, including BeautifulSoup and Requests, to scrape data from Wikipedia.
 Extracted information on the largest 100 US companies by revenue.
 Implemented time management techniques to ensure efficient and ethical web scraping.
