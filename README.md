@@ -4,11 +4,11 @@
 ## Project Overview
 
 **Web Scraping** and **Data Analysis** of the **Largest 100 US Companies by Revenue**
-**Tools and Technologies**: **Python**, BeautifulSoup, Requests, Pandas, Matplotlib, **PostgreSQL**, Smtplib, SSL.
+**Tools and Technologies**: **Python, BeautifulSoup, Requests, Pandas, Matplotlib, PostgreSQL, Smtplib, SSL**.
 
 ## Project Objectives
 
-To extract data on the largest 100 companies in the US by revenue from Wikipedia using web scraping techniques.
+To extract data on the **largest 100 companies in the US by revenue** from **Wikipedia** using **web scraping** techniques.
 To clean, analyse, and visualize the scraped data to derive **meaningful insights**.
 To store the cleaned data in a **PostgreSQL** database for efficient management and analysis.
 To send automated email notifications with project updates using the smtplib and MIME modules.
@@ -30,7 +30,7 @@ Imported the cleaned dataset into a **PostgreSQL** database for efficient storag
 Performed database administration tasks to maintain data integrity.
 
 - **Email Automation**
-Integrated smtplib and MIME modules to enable automated email notifications.
+Integrated smtplib and MIME modules to enable **automated email notifications**.
 Sent email updates with project progress and results to relevant interested parties.
 
 ## Achievements and Insights
