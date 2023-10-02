@@ -2,7 +2,7 @@
 # The largest 100 companies in the US by revenue from Wikipedia.
 
 ## Check the code by clicking on the links below:
-- ['Web Scraping in Python' Project](https://github.com/Kanvas33/Web-Scraping-and-Data-Analysis-Python-PostgreSQL/blob/main/Web%20Scraping%20Project%20-%20The%20largest%20companies%20in%20US%20by%20revenue.ipynb)
+- ['Web Scraping + Data Analysis in Python' Project](https://github.com/Kanvas33/Web-Scraping-and-Data-Analysis-Python-PostgreSQL/blob/main/Web%20Scraping%20Project%20-%20The%20largest%20companies%20in%20US%20by%20revenue.ipynb)
 - ['Data Analysis in PostgreSQL' Project](https://github.com/Kanvas33/Web-Scraping-and-Data-Analysis-Python-PostgreSQL/blob/main/PostgreSQL%20Analysis.sql)
 
 ## Project Overview
