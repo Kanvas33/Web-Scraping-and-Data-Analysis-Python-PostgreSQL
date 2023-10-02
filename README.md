@@ -15,21 +15,21 @@ To send automated email notifications with project updates using the smtplib and
 
 ## Project Workflow
 
-**Data Extraction (Web Scraping)**
+- **Data Extraction (Web Scraping)**
 Utilized Python libraries, including BeautifulSoup and Requests, to scrape data from Wikipedia.
 Extracted information on the largest 100 US companies by revenue.
 Implemented time management techniques to ensure efficient and ethical web scraping.
 
-**Data Processing and Analysis**
+- **Data Processing and Analysis**
 Employed pandas to clean and transform the scraped data, ensuring data accuracy and consistency.
 Utilized matplotlib for data visualization, creating informative graphs and charts.
 Conducted data analysis with SQL queries to extract valuable **insights**.
 
-**Database Management**
+- **Database Management**
 Imported the cleaned dataset into a **PostgreSQL** database for efficient storage and retrieval.
 Performed database administration tasks to maintain data integrity.
 
-**Email Automation**
+- **Email Automation**
 Integrated smtplib and MIME modules to enable automated email notifications.
 Sent email updates with project progress and results to relevant interested parties.
 
