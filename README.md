@@ -1,4 +1,4 @@
-# Web Scraping and Data Analysis with Python and PostgreSQL
+# Web Scraping and Data Analysis with Python and PostgreSQL Project
 # The largest 100 companies in the US by revenue from Wikipedia.
 
 ## Project Overview
