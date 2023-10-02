@@ -44,4 +44,4 @@ Implemented **automated email notifications** to keep interested parties informe
 ## Conclusion
 
 This project successfully demonstrated the application of **web scraping**, **data analysis**, and **database management** skills. 
-It provided valuable insights into the largest 100 US companies by revenue and showcased the use of PostgreSQL, Python and various libraries for efficient data processing and visualization. The implementation of automated email notifications added an element of project management and communication.
+It provided **valuable insights** into the largest 100 US companies by revenue and showcased the use of PostgreSQL, Python and various libraries for efficient **data processing and visualization**. The implementation of automated email notifications added an element of project management and communication.
